@@ -1,11 +1,11 @@
-Remote Developer Manifesto
-===
+##Remote Developer Manifesto
 
-##Intro
+
+####Intro
 
 We created this manifesto to explain the motives and views of developers that choose to work remotely. It is a guideline for both developers and companies on what to expect.
 
-##Manifesto
+####Manifesto
 
 We believe in giving people the freedom to choose where they are going to work from.
 
